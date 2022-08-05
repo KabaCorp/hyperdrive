@@ -14,8 +14,6 @@ It has a handful of cool features:
 Hyperdrive can also be used in a variety of ways:
 * [__The Daemon__](https://github.com/hypercore-protocol/hyperdrive-daemon): The Hyperdrive daemon provides both a gRPC API for managing remote Hyperdrives, and a FUSE API that turns Hyperdrives into normal folders on your computer.
 * [__The Client__](https://github.com/hypercore-protocol/hyperdrive-daemon-client): A Node.js client for the daemon. With this you can build services targeting remote drives.
-* [__Beaker__](https://beakerbrowser.com): An experimental browser that has first-class support for Hyperdrive.
-* [__Standalone__](#api): Hyperdrive has flexible storage/networking interfaces, making it easy to embed within larger projects.
 
 ## Installation
 If you're looking for a "batteries included" experience, check out the [Hyperdrive daemon](https://github.com/hypercore-protocol/hyperdrive-daemon).
